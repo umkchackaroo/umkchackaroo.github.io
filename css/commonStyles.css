@@ -123,7 +123,7 @@
     display: block;
     z-index: 1;
     position: relative;
-    width: 230px;
+    width: 250px;
     padding: 20px;
     background-color: transparent;
     -webkit-box-shadow: 1px 1px 4px -1px #b0b0b0;
@@ -132,7 +132,7 @@
     -webkit-background-clip: padding-box;
     background-clip: padding-box;
     color: white;
-    height: auto;
+    height: 160px;
     background-color: darkcyan;
     border-radius: 30px;
     margin-left: 35%;
