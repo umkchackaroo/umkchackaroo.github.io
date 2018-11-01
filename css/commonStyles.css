@@ -185,6 +185,21 @@
 .ft{
     font-weight: bold;
 }
+.btn-head {
+    background-color: #ffffff;
+    border:none;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 8px;
+    width: 290px;
+    height: 80px;
+
+}
 .btn-sty{
     background-color: #4CAF50; /* Green */
     border: none;
