@@ -14,7 +14,8 @@ body {
 hr {
   max-width: 50px;
   border-width: 3px;
-  border-color: #F05F40; }
+  border-color: #F05F40;
+  align: center}
 
 hr.light {
   border-color: #fff; }
@@ -233,3 +234,4 @@ header.masthead {
 .w3-left, .w3-right, .w3-badge {cursor:pointer;font-size:30px}
 .w3-left, .w3-right {height:25px;width:18px}
 .w3-badge {height:18px;width:18px;padding:0}
+.my-4 {text-align:center;}

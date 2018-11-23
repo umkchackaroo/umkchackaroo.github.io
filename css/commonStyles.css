@@ -179,6 +179,7 @@
 .my-hr{
     max-width: 1000px!important;
     border-width: 2px!important;
+    text-align: center;
     border-color: black;
     margin-left: 1px;
 }
