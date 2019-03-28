@@ -135,6 +135,7 @@ header.slideshow {
 
 }
 header.masthead {
+  background-image: url("../../img/header.jpg");
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
  background-position: center center;
