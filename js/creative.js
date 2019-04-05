@@ -1,5 +1,5 @@
 $(document).ready(function(){
-    setCountdownInfo(new Date('04/04/2019 5:30:00 PM'));
+    setCountdownInfo(new Date('04/15/2019 5:30:00 PM'));
     window.setInterval(function(){
         setCountdownInfo(new Date('04/04/2019 5:30:00 PM'));
     }, 1000);
